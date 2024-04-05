@@ -1,0 +1,94 @@
+{
+    "Arabica": [
+        {
+            "nama": "Arabica Gayo",
+            "foto": "images/produk/product_capuchino.jpg",
+            "harga": "15.000",
+            "size": "250 Ml",
+            "link": "https://shopee.co.id/eaifjlesjfi"
+        },
+        {
+            "nama": "Arabica Papua",
+            "foto": "images/produk/product_espresso.jpg",
+            "harga": "15.000",
+            "size": "250 Ml",
+            "link": "https://shopee.co.id/eaifjlesjfi"
+        },
+        {
+            "nama": "Arabica Lampung",
+            "foto": "https://akcdn.detik.net.id/community/media/visual/2018/09/26/b07d55a3-c1cc-4502-b137-5bcc79c4b266.jpeg?w=700&q=90",
+            "harga": "15.000",
+            "size": "250 Ml",
+            "link": "https://shopee.co.id/eaifjlesjfi"
+        }
+    ],
+    "Robusta": [
+        {
+            "nama": "Kopi Susu",
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "harga": "10.000",
+            "size": "250 Ml",
+            "link": "https://shopee.co.id/eaifjlesjfi"
+        },
+        {
+            "nama": "Latte",
+            "foto":"https://www.foodandwine.com/thmb/CCe2JUHfjCQ44L0YTbCu97ukUzA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Partners-Latte-FT-BLOG0523-09569880de524fe487831d95184495cc.jpg",
+            "harga": "14.000",
+            "size": "250 Ml",
+            "link": "https://shopee.co.id/eaifjlesjfi"
+        },
+        {
+            "nama": "Mocca",
+            "foto":" https://diswayjateng.com/wp-content/uploads/2023/05/Cappucino-Moccacino.jpg ",
+            "harga": "12.000",
+            "size": "250 Ml",
+            "link": "https://shopee.co.id/eaifjlesjfi"
+        }
+    ],
+    "Non Kopi": [
+        {
+            "nama": "Es Teh Manis",
+            "foto": "https://fajar.co.id/wp-content/uploads/2023/09/IMG_0741.jpg",
+            "harga": "8.000",
+            "size": "Medium",
+            "link": "https://shopee.co.id/eaifjlesjfi"
+        },
+        {
+            "nama": "Es Campur",
+            "foto": "https://cdn.yummy.co.id/content-images/images/20200521/0hVDZ66FMWiT9URRDhDZN8KKbk0sh3qA-31353930303031383335d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_388,h_388,m_fixed,x-oss-process=image/format,webp",
+            "harga": "10.000",
+            "size": "learge",
+            "link": "https://shopee.co.id/eaifjlesjfi"
+        },
+        {
+            "nama": "Greentea",
+            "harga": "10.000",
+            "foto":"https://cdn1-production-images-kly.akamaized.net/o7Fk7zAizqO2jJKdyzqERpskvrA=/57x0:724x667/1200x900/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3628134/original/074999800_1636516947-shutterstock_431091712.jpg",
+            "size": "learge",
+            "link": "https://shopee.co.id/eaifjlesjfi"
+        }
+    ],
+    "Makanan": [
+        {
+            "nama": "Kebab",
+            "foto": "https://asset.kompas.com/crops/-hD1YcDUzfsLZOgxLg5DiyyP5Yg=/100x114:900x647/750x500/data/photo/2023/10/23/6536a299a300a.jpg",
+            "harga": "12.000",
+            "size": "Small",
+            "link": "https://shopee.co.id/eaifjlesjfi"
+        },
+        {
+            "nama": "Burger",
+            "harga": "20.000",
+            "foto":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpGd53qcwODPYaBUdvmDEcfMJc-fq_tCk9WQzoV2iXJElL1zp3J5S1-1pwFHHE65Q6p6U&usqp=CAU",
+            "size": "Big",
+            "link": "https://shopee.co.id/eaifjlesjfi"
+        },
+        {
+            "nama": "French Fries",
+            "harga": "10.000",
+            "foto":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbbBrY3v7LH6jAdi4nCViX4Un1q-d9A1AHLA&s",
+            "size": "Small",
+            "link": "https://shopee.co.id/eaifjlesjfi"
+        }
+    ]
+}
